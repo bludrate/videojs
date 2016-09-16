@@ -1,0 +1,23 @@
+{
+  "name": "videojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "video.js": "^5.11.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bludrate/videojs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bludrate/videojs/issues"
+  },
+  "homepage": "https://github.com/bludrate/videojs#readme"
+}
